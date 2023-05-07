@@ -1,4 +1,2 @@
-var nouns=["potato","cat"]
-var more=["with","more"]
-var adverbs=[""]
-var adjutive=["red","furry"]
+var recognized=[["hello","hi","greetings"]]
+//recognized[0]==="greetings"
